@@ -54,7 +54,7 @@ The project is designed around the following flow:
                      └─────────────────────────────┘
 ```
 
-The original architecture diagram is available in [`Notes.png`](Notes.png).
+
 
 ---
 
